@@ -12,3 +12,12 @@ Building Online Shopping Application using Microservices.
 ## Project Architecture
 ![image](https://github.com/user-attachments/assets/2d1ce297-73d1-4a63-8678-7c9f5a2c1610)
 
+## 🚀 Tech Stack
+- Java 17
+- Spring Boot
+- Hibernate
+- Microservices
+- MySql
+- Kafka
+- Grafana
+- Docker
