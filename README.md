@@ -10,5 +10,5 @@ Building Online Shopping Application using Microservices.
 - Order Service, Inventory Service, and Notification Service will interact.
 
 ## Project Architecture
+![image](https://github.com/user-attachments/assets/2d1ce297-73d1-4a63-8678-7c9f5a2c1610)
 
-![Project Architecture](https://drive.google.com/file/d/1xKc_B1hjZl8rRnlkfLDx4rxOnJI1lGJn/view?usp=drive_link)
